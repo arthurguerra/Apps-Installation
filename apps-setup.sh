@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # OSX Applications Setup (dowload and install applications via brew cask)
 
 echo 'Installing homebrew...'
