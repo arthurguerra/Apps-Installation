@@ -12,7 +12,11 @@ brew install vim \
              zsh-syntax-highlighting \
              tree \
              wget \
-             pyenv
+             pyenv \
+             node
+
+brew update
+brew upgrade node
 
 pip install --upgrade setuptools
 pip install --upgrade pip
@@ -36,5 +40,7 @@ brew cask install google-chrome \
                   postman \
                   skype \
                   spotify
+
+npm install ionic cordova -g
 
 echo '\nPackages installed.'
