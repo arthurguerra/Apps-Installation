@@ -13,7 +13,8 @@ brew install vim \
              tree \
              wget \
              pyenv \
-             node
+             node \
+	     awscli
 
 brew update
 brew upgrade node
