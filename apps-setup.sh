@@ -15,7 +15,8 @@ brew install vim \
              pyenv \
              node \
 	     awscli \
-	     terraform
+	     terraform \
+	     jmeter
 
 brew update
 brew upgrade node
