@@ -16,7 +16,9 @@ brew install vim \
              node \
 	     awscli \
 	     terraform \
-	     jmeter
+	     jmeter \
+	     kubernetes \
+	     kops
 
 brew update
 brew upgrade node
