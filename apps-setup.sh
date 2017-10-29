@@ -18,7 +18,8 @@ brew install vim \
 	     terraform \
 	     jmeter \
 	     kubernetes \
-	     kops
+	     kops \
+	     jq
 
 brew update
 brew upgrade node
