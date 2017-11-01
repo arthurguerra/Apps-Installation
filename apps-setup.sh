@@ -19,7 +19,8 @@ brew install vim \
 	     jmeter \
 	     kubernetes \
 	     kops \
-	     jq
+	     jq \
+	     python3
 
 brew update
 brew upgrade node
