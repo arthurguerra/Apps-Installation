@@ -20,7 +20,8 @@ brew install vim \
 	     kubernetes \
 	     kops \
 	     jq \
-	     python3
+	     python3 \
+	     teamviewer
 
 brew update
 brew upgrade node
