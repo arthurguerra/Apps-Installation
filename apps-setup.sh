@@ -20,8 +20,7 @@ brew install vim \
 	     kubernetes \
 	     kops \
 	     jq \
-	     python3 \
-	     teamviewer
+	     python3
 
 brew update
 brew upgrade node
@@ -47,7 +46,8 @@ brew cask install google-chrome \
                   vlc \
                   postman \
                   skype \
-                  spotify
+                  spotify \
+		  teamviewer
 
 npm install ionic cordova -g
 
