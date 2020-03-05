@@ -13,12 +13,8 @@ brew install vim \
              tree \
              wget \
              pyenv \
-             node \
 	     awscli \
 	     terraform \
-	     jmeter \
-	     kubernetes \
-	     kops \
 	     jq \
 	     python3
 
@@ -45,10 +41,7 @@ brew cask install google-chrome \
                   atom \
                   vlc \
                   postman \
-                  skype \
                   spotify \
 		  teamviewer
-
-npm install ionic cordova -g
 
 echo '\nPackages installed.'
