@@ -31,7 +31,6 @@ chsh -s /usr/local/bin/zsh
 echo 'Installing packages via brew cask...'
 
 brew cask install google-chrome \
-                  git \
                   java \
                   firefox \
                   iterm2 \
