@@ -37,7 +37,7 @@ brew cask install google-chrome \
                   docker \
                   pycharm-ce \
                   intellij-idea-ce \
-                  atom \
+                  visual-studio-code \
                   vlc \
                   postman \
                   spotify \
