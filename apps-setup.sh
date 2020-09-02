@@ -35,12 +35,10 @@ brew cask install google-chrome \
                   firefox \
                   iterm2 \
                   docker \
-                  pycharm-ce \
                   intellij-idea-ce \
                   visual-studio-code \
                   vlc \
                   postman \
-                  spotify \
-		  teamviewer
+                  spotify
 
 echo '\nPackages installed.'
